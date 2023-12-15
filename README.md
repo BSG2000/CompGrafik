@@ -40,7 +40,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die Datei [LICENSE](L
 
 Ihr Name - Ihre E-Mail
 
-Projektlink: https://github.com/IhrGithubBenutzername/beleuchteter-rotierender-quader
+Projektlink: https://github.com/BSG2000/CompGrafik
 
 ---
 
